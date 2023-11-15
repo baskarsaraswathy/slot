@@ -25,7 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-<<html>
+<html>
 <head>
 <title>slot Timetable</title>    
 </head>
@@ -34,18 +34,18 @@ Execute the program using runserver command.
 <img src="/static/logo.png" height="100" width="540">
 </center>
 <br>
-<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - BASKAR (23013386)</b></caption>
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="green">
+<caption><b>SLOT TIME TABLE - BASKAR J (23013386)</b></caption>
 <tr align="center">
-<th bgcolor="yellow">Day/Time</th>
-<th bgcolor="yellow">Monday</th>
-<th bgcolor="yellow">Tuesday</th>
-<th bgcolor="yellow">Wednesday</th>
-<th bgcolor="yellow">Thursday</th>
-<th bgcolor="yellow">Friday</th>
+<th bgcolor="purple">Day/Time</th>
+<th bgcolor="purple">Monday</th>
+<th bgcolor="purple">Tuesday</th>
+<th bgcolor="purple">Wednesday</th>
+<th bgcolor="purple">Thursday</th>
+<th bgcolor="purple">Friday</th>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">8-10</th>
+<th bgcolor="blue">8-10</th>
 <td>FUNDAMENTALS OF C PROGRAMMING</td>
 <td>FREE SLOT</td>
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
@@ -61,11 +61,11 @@ Execute the program using runserver command.
 <td>FREE SLOT</td>
 </tr>
 <tr>
-<th bgcolor="yellow">12-1</th>
+<th bgcolor="red">12-1</th>
 <td colspan="5" align="center">L U N C H</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">1-3</th>
+<th bgcolor="blue">1-3</th>
 <td>PHYSICS FOR QUANTUM COMPUTING</td>
 <td>EINGINEERING DESIGN AND MODELLING</td>
 <td>FREE SLOT</td>
@@ -121,11 +121,15 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
+
+
+
+
 ```
 
 ## OUTPUT
-![Alt text](<Screenshot (26).png>)
 
+![Alt text](<Screenshot (46).png>)s
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
